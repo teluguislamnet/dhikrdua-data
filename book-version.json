@@ -1,7 +1,7 @@
 {
- "version": 1,
- "size": 642363,
- "sha256": "c72de3b1f55c5028432a12c3a1ccf54b4bd9de19d58e8a6390cb1d6043ec3c69",
- "generatedAt": "2026-11-08T15:56:37Z",
- "sourceModified": "2026-11-08T14:49:41"
+ "version": 2,
+ "size": 642357,
+ "sha256": "26d182a003e0f45fd69394317b1d2c960cfcba9efbd98bea745b304c8e310add",
+ "generatedAt": "2026-11-08T16:17:24Z",
+ "sourceModified": "2026-11-08T20:16:44"
 }
