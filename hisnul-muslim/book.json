@@ -1,7 +1,7 @@
 {
- "version": 3,
- "generatedAt": "2026-11-10T16:43:12Z",
- "sourceModified": "2026-11-08T21:19:48",
+ "version": 4,
+ "generatedAt": "2026-11-10T19:49:25Z",
+ "sourceModified": "2026-11-10T23:46:42",
  "intro": [
   {
    "id": "intro-1",
@@ -6593,9 +6593,7 @@
      "text": "ముస్లిం 4/1729 ఉస్మాన్ బిన్ అబీఅల్ ఆస్ రదియల్లాహు అన్హు హదీథ్ నుండి మరియు అందులో “నేను అలాచేసాను అల్లాహ్ నా నుండి అతడిని (షైతాన్ను) దూరం చేసాడు” అని ఉంది."
     }
    ],
-   "audioUrls": [
-    "https://archive.org/download/hisnul-muslim-telugu/HM-138.mp3"
-   ],
+   "audioUrls": [],
    "repeat": null,
    "tags": [
     "prayer",
@@ -10607,9 +10605,7 @@
      "text": "ఇవే పదాలతో అబుదావూద్ ఉల్లేఖించారు 2/81, అత్తిర్మిదీ 5/521 మరియు చూడుము సహీహ్ అల్ జామిఅ 4/271 సంఖ్య 4865."
     }
    ],
-   "audioUrls": [
-    "https://archive.org/download/hisnul-muslim-telugu/HM-266.mp3"
-   ],
+   "audioUrls": [],
    "repeat": null,
    "tags": [
     "tasbih",
@@ -10637,9 +10633,7 @@
      "text": "అల్ బుఖారీ అల్ ఫతహ్ 10/88, ముస్లిం 3/1595."
     }
    ],
-   "audioUrls": [
-    "https://archive.org/download/hisnul-muslim-telugu/HM-267.mp3"
-   ],
+   "audioUrls": [],
    "repeat": null,
    "tags": [
     "good deeds",
