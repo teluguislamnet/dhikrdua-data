@@ -1,6 +1,6 @@
 {
- "version": 2,
- "generatedAt": "2026-11-09T12:00:28Z",
+ "version": 3,
+ "generatedAt": "2026-11-10T16:43:12Z",
  "sourceModified": "2026-11-09T15:59:31",
  "intro": [],
  "chapters": [
@@ -1348,7 +1348,7 @@
     }
    ],
    "audioUrls": [],
-   "repeat": null,
+   "repeat": "33 + 33 + 33 + 1",
    "tags": [
     "prayer",
     "salah",
