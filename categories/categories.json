@@ -1,0 +1,1859 @@
+{
+ "version": 1,
+ "format": 1,
+ "books": {
+  "hisnul-muslim": 7,
+  "rabbana-dua": 1,
+  "ibn-baz-dua": 3,
+  "abbad-dua": 1,
+  "namaz-dua": 3
+ },
+ "categories": [
+  {
+   "id": "ummah",
+   "title": "ఉమ్మత్ కొరకు దుఆలు",
+   "section": "main",
+   "image": "assets/categories/ummah.jpg",
+   "items": [
+    {
+     "book": "rabbana-dua",
+     "chapter": 32
+    },
+    {
+     "book": "rabbana-dua",
+     "chapter": 17
+    },
+    {
+     "book": "rabbana-dua",
+     "chapter": 3
+    },
+    {
+     "book": "rabbana-dua",
+     "chapter": 13
+    },
+    {
+     "book": "rabbana-dua",
+     "chapter": 4
+    },
+    {
+     "book": "rabbana-dua",
+     "chapter": 28
+    },
+    {
+     "book": "abbad-dua",
+     "chapter": 27
+    }
+   ],
+   "keywords": "ummah muslims community nation"
+  },
+  {
+   "id": "morning-evening",
+   "title": "ఉదయం & సాయంత్రం",
+   "section": "main",
+   "image": "assets/categories/morning-evening.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 27
+    }
+   ],
+   "wide": true,
+   "keywords": "morning evening adhkar azkar daily udayam sayantram subah sham"
+  },
+  {
+   "id": "sleep",
+   "title": "నిద్రకు ముందు",
+   "section": "main",
+   "image": "assets/categories/sleep.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 28
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 29
+    }
+   ],
+   "wide": true,
+   "dark": true,
+   "keywords": "sleep night bed bedtime nidra"
+  },
+  {
+   "id": "tahajjud",
+   "title": "తహజ్జుద్",
+   "section": "main",
+   "image": "assets/categories/tahajjud.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 29
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 16
+    }
+   ],
+   "dark": true,
+   "keywords": "tahajjud night prayer qiyam"
+  },
+  {
+   "id": "prayer",
+   "title": "నమాజ్",
+   "section": "main",
+   "image": "assets/categories/prayer.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "duas": [
+      28,
+      31,
+      32
+     ]
+    },
+    {
+     "book": "hisnul-muslim",
+     "duas": [
+      34,
+      35,
+      37
+     ]
+    },
+    {
+     "book": "hisnul-muslim",
+     "duas": [
+      38,
+      39
+     ]
+    },
+    {
+     "book": "hisnul-muslim",
+     "duas": [
+      42,
+      43,
+      44,
+      45,
+      46
+     ]
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 20
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 21
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 22
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 23
+    },
+    {
+     "book": "hisnul-muslim",
+     "duas": [
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65
+     ]
+    },
+    {
+     "book": "hisnul-muslim",
+     "duas": [
+      116,
+      118
+     ]
+    },
+    {
+     "book": "namaz-dua"
+    }
+   ],
+   "keywords": "prayer salah salat namaz"
+  },
+  {
+   "id": "after-prayer",
+   "title": "నమాజ్ తర్వాత",
+   "section": "main",
+   "image": "assets/categories/after-prayer.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 25
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 33
+    },
+    {
+     "book": "namaz-dua",
+     "duas": [
+      41,
+      42
+     ]
+    }
+   ],
+   "wide": true,
+   "keywords": "after prayer salah salat namaz tasbih"
+  },
+  {
+   "id": "ruqyah",
+   "title": "రుఖ్యా & అనారోగ్యం",
+   "section": "main",
+   "image": "assets/categories/protection.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 128
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 125
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 48
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 124
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 49
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 50
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 51
+    },
+    {
+     "book": "abbad-dua",
+     "chapter": 26
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 11
+    }
+   ],
+   "keywords": "ruqyah ruqya sick sickness illness disease cure healing pain evil eye nazar arogyam"
+  },
+  {
+   "id": "praise",
+   "title": "అల్లాహ్ స్తుతి",
+   "section": "main",
+   "image": "assets/categories/praise.jpg",
+   "items": [
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 1
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 2
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 33
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 3
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 6
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 4
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 5
+    },
+    {
+     "book": "abbad-dua",
+     "chapter": 28
+    }
+   ],
+   "keywords": "praise glory alhamdulillah hamd stuti"
+  },
+  {
+   "id": "durood",
+   "title": "దరూద్",
+   "section": "main",
+   "image": "assets/categories/durood.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 107
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 23
+    },
+    {
+     "book": "abbad-dua",
+     "chapter": 29
+    }
+   ],
+   "keywords": "durood darood salawat salat on prophet blessings"
+  },
+  {
+   "id": "quran",
+   "title": "ఖురాన్ దుఆలు",
+   "section": "main",
+   "image": "assets/categories/quran.jpg",
+   "items": [
+    {
+     "book": "rabbana-dua"
+    }
+   ],
+   "keywords": "quran rabbana quranic"
+  },
+  {
+   "id": "sunnah",
+   "title": "ప్రవక్త ﷺ దుఆలు",
+   "section": "main",
+   "image": "assets/categories/sunnah.jpg",
+   "items": [
+    {
+     "book": "abbad-dua"
+    }
+   ],
+   "keywords": "sunnah prophet nabi rasool"
+  },
+  {
+   "id": "istighfar",
+   "title": "ఇస్తిగ్ఫార్ & తౌబా",
+   "section": "main",
+   "image": "assets/categories/istighfar.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 129
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 44
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 85
+    },
+    {
+     "book": "abbad-dua",
+     "chapter": 1
+    },
+    {
+     "book": "abbad-dua",
+     "chapter": 2
+    },
+    {
+     "book": "abbad-dua",
+     "chapter": 3
+    },
+    {
+     "book": "abbad-dua",
+     "chapter": 4
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 15
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 16
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 17
+    }
+   ],
+   "keywords": "istighfar astaghfirullah forgive forgiveness repent repentance tauba tawba kshamapana"
+  },
+  {
+   "id": "dhikr",
+   "title": "ఎల్లప్పుడూ జిక్ర్",
+   "section": "main",
+   "image": "assets/categories/dhikr.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 130
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 131
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 132
+    }
+   ],
+   "dark": true,
+   "keywords": "dhikr zikr remembrance tasbih"
+  },
+  {
+   "id": "akhirah",
+   "title": "ఆఖిరత్ (పరలోకం)",
+   "section": "main",
+   "image": "assets/categories/akhirah.jpg",
+   "items": [
+    {
+     "book": "rabbana-dua",
+     "duas": [
+      1
+     ]
+    },
+    {
+     "book": "ibn-baz-dua",
+     "duas": [
+      7,
+      35
+     ]
+    },
+    {
+     "book": "hisnul-muslim",
+     "duas": [
+      235
+     ]
+    },
+    {
+     "book": "ibn-baz-dua",
+     "duas": [
+      31
+     ]
+    },
+    {
+     "book": "hisnul-muslim",
+     "duas": [
+      61,
+      64
+     ]
+    },
+    {
+     "book": "hisnul-muslim",
+     "duas": [
+      55,
+      56
+     ]
+    },
+    {
+     "book": "abbad-dua",
+     "duas": [
+      7
+     ]
+    },
+    {
+     "book": "hisnul-muslim",
+     "duas": [
+      104
+     ]
+    },
+    {
+     "book": "ibn-baz-dua",
+     "duas": [
+      8
+     ]
+    },
+    {
+     "book": "abbad-dua",
+     "duas": [
+      22
+     ]
+    },
+    {
+     "book": "rabbana-dua",
+     "duas": [
+      7,
+      27,
+      17,
+      29
+     ]
+    }
+   ],
+   "keywords": "akhirah akhirat aakhirat hereafter afterlife paradise jannah heaven hell jahannam fire grave qabr judgement qiyamah reckoning paralokam swargam narakam samadhi"
+  },
+  {
+   "id": "comprehensive",
+   "title": "సమగ్ర దుఆలు",
+   "section": "main",
+   "image": "assets/categories/comprehensive.jpg",
+   "dark": true,
+   "items": [
+    {
+     "book": "rabbana-dua",
+     "duas": [
+      1
+     ]
+    },
+    {
+     "book": "ibn-baz-dua",
+     "duas": [
+      7,
+      35
+     ]
+    },
+    {
+     "book": "hisnul-muslim",
+     "duas": [
+      235
+     ]
+    },
+    {
+     "book": "abbad-dua",
+     "duas": [
+      20
+     ]
+    },
+    {
+     "book": "ibn-baz-dua",
+     "duas": [
+      8
+     ]
+    },
+    {
+     "book": "ibn-baz-dua",
+     "duas": [
+      28
+     ]
+    },
+    {
+     "book": "abbad-dua",
+     "duas": [
+      11
+     ]
+    },
+    {
+     "book": "abbad-dua",
+     "duas": [
+      22
+     ]
+    },
+    {
+     "book": "ibn-baz-dua",
+     "duas": [
+      18
+     ]
+    },
+    {
+     "book": "abbad-dua",
+     "duas": [
+      9
+     ]
+    }
+   ],
+   "keywords": "comprehensive jawami jawamiul kalim all good complete best duas samagra"
+  },
+  {
+   "id": "waking",
+   "title": "నిద్ర లేవగానే",
+   "section": "other",
+   "image": "assets/categories/waking.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 1
+    }
+   ],
+   "keywords": "wake waking up morning"
+  },
+  {
+   "id": "exams",
+   "title": "చదువు & పరీక్షలు",
+   "section": "other",
+   "image": "assets/categories/exams.jpg",
+   "items": [
+    {
+     "book": "rabbana-dua",
+     "chapter": 22
+    },
+    {
+     "book": "rabbana-dua",
+     "chapter": 21
+    },
+    {
+     "book": "rabbana-dua",
+     "chapter": 20
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 24
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 43
+    }
+   ],
+   "keywords": "exam exams study knowledge ilm education chaduvu"
+  },
+  {
+   "id": "nightmares",
+   "title": "పీడకలలు",
+   "section": "other",
+   "image": "assets/categories/nightmares.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 30
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 31
+    }
+   ],
+   "dark": true,
+   "keywords": "nightmare bad dream dreams"
+  },
+  {
+   "id": "clothes",
+   "title": "దుస్తులు",
+   "section": "other",
+   "image": "assets/categories/clothes.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 2
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 3
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 4
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 5
+    }
+   ],
+   "keywords": "clothes dress wear clothing"
+  },
+  {
+   "id": "wudu",
+   "title": "మరుగుదొడ్డి & వుజూ",
+   "section": "other",
+   "image": "assets/categories/wudu.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 6
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 7
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 8
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 9
+    }
+   ],
+   "keywords": "wudu wuzu ablution toilet bathroom"
+  },
+  {
+   "id": "food",
+   "title": "భోజనం & పానీయం",
+   "section": "other",
+   "image": "assets/categories/home-food.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 69
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 70
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 71
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 72
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 76
+    }
+   ],
+   "keywords": "food eat eating meal drink drinking bhojanam annam"
+  },
+  {
+   "id": "home",
+   "title": "ఇల్లు",
+   "section": "other",
+   "image": "assets/categories/home.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 10
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 11
+    }
+   ],
+   "keywords": "home house enter leave illu"
+  },
+  {
+   "id": "masjid",
+   "title": "అజాన్ & మస్జిద్",
+   "section": "other",
+   "image": "assets/categories/masjid.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 12
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 13
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 14
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 15
+    }
+   ],
+   "keywords": "masjid mosque adhan azan athan"
+  },
+  {
+   "id": "istikhara",
+   "title": "ఇస్తిఖారా",
+   "section": "other",
+   "image": "assets/categories/istikhara.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 26
+    },
+    {
+     "book": "namaz-dua",
+     "chapter": 18
+    }
+   ],
+   "keywords": "istikhara decision guidance choice"
+  },
+  {
+   "id": "gatherings",
+   "title": "సభలు",
+   "section": "other",
+   "image": "assets/categories/gatherings.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 84
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 85
+    }
+   ],
+   "keywords": "gathering meeting majlis sitting"
+  },
+  {
+   "id": "distress",
+   "title": "కష్టాలు & సంతోషం",
+   "section": "other",
+   "image": "assets/categories/distress.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 34
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 35
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 43
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 53
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 46
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 36
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 37
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 39
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 126
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 83
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 106
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 122
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 123
+    }
+   ],
+   "dark": true,
+   "keywords": "distress hardship difficulty trouble worry problem kashtam"
+  },
+  {
+   "id": "raksha",
+   "title": "రక్షణ (జాదూ, దిష్టి, షైతాన్)",
+   "section": "other",
+   "image": "assets/categories/raksha.jpg",
+   "dark": true,
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "duas": [
+      75,
+      76,
+      86,
+      141,
+      142,
+      143,
+      146,
+      244,
+      247
+     ]
+    }
+   ],
+   "keywords": "జాదూ జాదు చేతబడి మాజిక్ మంత్రం సిహ్ర్ దిష్టి నజర్ షైతాన్ షైతాను దెయ్యం జిన్ రక్ష magic black magic jadu jaadu chetabadi sihr sehr evil eye nazar dishti devil devils shaitan shaitaan satan jinn protection raksha"
+  },
+  {
+   "id": "iman",
+   "title": "విశ్వాస రక్షణ",
+   "section": "other",
+   "image": "assets/categories/iman.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 40
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 42
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 45
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 92
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 88
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 94
+    },
+    {
+     "book": "abbad-dua",
+     "chapter": 15
+    }
+   ],
+   "dark": true,
+   "keywords": "iman faith belief doubt"
+  },
+  {
+   "id": "hajj",
+   "title": "హజ్ & ఉమ్రా",
+   "section": "other",
+   "image": "assets/categories/hajj.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 115
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 116
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 117
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 118
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 119
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 120
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 121
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 127
+    }
+   ],
+   "keywords": "hajj umrah pilgrimage makkah kaaba"
+  },
+  {
+   "id": "travel",
+   "title": "ప్రయాణం",
+   "section": "other",
+   "image": "assets/categories/travel.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 95
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 96
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 97
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 99
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 100
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 101
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 102
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 103
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 104
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 105
+    }
+   ],
+   "keywords": "travel journey trip vehicle car ride prayanam"
+  },
+  {
+   "id": "money",
+   "title": "డబ్బు & బజారు",
+   "section": "other",
+   "image": "assets/categories/money.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 41
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 91
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 90
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 98
+    }
+   ],
+   "keywords": "money debt loan market shopping wealth rizq dabbu appu"
+  },
+  {
+   "id": "social",
+   "title": "సామాజిక మర్యాదలు",
+   "section": "other",
+   "image": "assets/categories/social.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 77
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 78
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 86
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 87
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 89
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 93
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 108
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 109
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 112
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 113
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 114
+    }
+   ],
+   "keywords": "social greeting salam sneeze manners"
+  },
+  {
+   "id": "family",
+   "title": "వివాహం & సంతానం",
+   "section": "other",
+   "image": "assets/categories/family.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 79
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 80
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 81
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 47
+    }
+   ],
+   "keywords": "family marriage wedding children child kids baby nikah pelli"
+  },
+  {
+   "id": "death",
+   "title": "మరణం",
+   "section": "other",
+   "image": "assets/categories/sick-death.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 52
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 54
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 55
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 56
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 57
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 58
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 59
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 60
+    }
+   ],
+   "keywords": "death dead funeral janaza grave maranam"
+  },
+  {
+   "id": "nature",
+   "title": "ప్రకృతి & వాతావరణం",
+   "section": "other",
+   "image": "assets/categories/nature.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 61
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 62
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 63
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 64
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 65
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 66
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 110
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 111
+    }
+   ],
+   "keywords": "nature rain wind storm thunder weather moon varsham"
+  },
+  {
+   "id": "fasting",
+   "title": "రంజాన్ & ఉపవాసం",
+   "section": "other",
+   "image": "assets/categories/fasting.jpg",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 67
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 68
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 73
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 74
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 75
+    }
+   ],
+   "dark": true,
+   "keywords": "fasting fast ramadan ramzan iftar roza upavasam"
+  },
+  {
+   "id": "sad",
+   "title": "విచారం",
+   "group": "feelings",
+   "color": "#F2D3D3",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 34
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 53
+    }
+   ],
+   "image": "assets/categories/feelings/sad.jpg",
+   "keywords": "sad sadness sorrow grief vicharam"
+  },
+  {
+   "id": "anxious",
+   "title": "ఆందోళన",
+   "group": "feelings",
+   "color": "#D6ECE4",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 34
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 35
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 10
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 30
+    }
+   ],
+   "image": "assets/categories/feelings/anxious.jpg",
+   "keywords": "anxious anxiety worry worried stress"
+  },
+  {
+   "id": "scared",
+   "title": "భయం",
+   "group": "feelings",
+   "color": "#E4E4E8",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 126
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 39
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 36
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 37
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 30
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 14
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 30
+    }
+   ],
+   "image": "assets/categories/feelings/scared.jpg",
+   "keywords": "scared fear afraid frightened bhayam"
+  },
+  {
+   "id": "angry",
+   "title": "కోపం",
+   "group": "feelings",
+   "color": "#F2D3D3",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 82
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 75
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 19
+    }
+   ],
+   "image": "assets/categories/feelings/angry.jpg",
+   "keywords": "angry anger kopam"
+  },
+  {
+   "id": "depressed",
+   "title": "క్రుంగుబాటు",
+   "group": "feelings",
+   "color": "#E4E4E8",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 34
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 35
+    }
+   ],
+   "image": "assets/categories/feelings/depressed.jpg",
+   "keywords": "depressed depression low hopeless"
+  },
+  {
+   "id": "overwhelmed",
+   "title": "భారం ఎక్కువైతే",
+   "group": "feelings",
+   "color": "#D6ECE4",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 43
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 35
+    },
+    {
+     "book": "rabbana-dua",
+     "chapter": 5
+    },
+    {
+     "book": "rabbana-dua",
+     "chapter": 21
+    }
+   ],
+   "image": "assets/categories/feelings/overwhelmed.jpg",
+   "keywords": "overwhelmed burden pressure"
+  },
+  {
+   "id": "nervous",
+   "title": "కంగారు",
+   "group": "feelings",
+   "color": "#D6ECE4",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 126
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 30
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 14
+    }
+   ],
+   "image": "assets/categories/feelings/nervous.jpg",
+   "keywords": "nervous tense"
+  },
+  {
+   "id": "lonely",
+   "title": "ఒంటరితనం",
+   "group": "feelings",
+   "color": "#E4E4E8",
+   "items": [
+    {
+     "book": "rabbana-dua",
+     "chapter": 24
+    },
+    {
+     "book": "rabbana-dua",
+     "chapter": 31
+    }
+   ],
+   "image": "assets/categories/feelings/lonely.jpg",
+   "keywords": "lonely alone loneliness unloved"
+  },
+  {
+   "id": "tired",
+   "title": "అలసట",
+   "group": "feelings",
+   "color": "#D6E8F5",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 28
+    },
+    {
+     "book": "abbad-dua",
+     "chapter": 26
+    }
+   ],
+   "image": "assets/categories/feelings/tired.jpg",
+   "keywords": "tired exhausted weary"
+  },
+  {
+   "id": "weak",
+   "title": "బలహీనత",
+   "group": "feelings",
+   "color": "#E4E4E8",
+   "items": [
+    {
+     "book": "abbad-dua",
+     "chapter": 5
+    },
+    {
+     "book": "abbad-dua",
+     "chapter": 12
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 6
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 22
+    }
+   ],
+   "image": "assets/categories/feelings/weak.jpg",
+   "keywords": "weak weakness helpless"
+  },
+  {
+   "id": "hurt",
+   "title": "నొప్పి / బాధ",
+   "group": "feelings",
+   "color": "#F2D3D3",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 124
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 34
+    }
+   ],
+   "image": "assets/categories/feelings/hurt.jpg",
+   "keywords": "hurt pain wounded badha"
+  },
+  {
+   "id": "impatient",
+   "title": "అసహనం",
+   "group": "feelings",
+   "color": "#D6ECE4",
+   "items": [
+    {
+     "book": "rabbana-dua",
+     "chapter": 12
+    },
+    {
+     "book": "rabbana-dua",
+     "chapter": 4
+    }
+   ],
+   "image": "assets/categories/feelings/impatient.jpg",
+   "keywords": "impatient patience sabr"
+  },
+  {
+   "id": "lazy",
+   "title": "సోమరితనం",
+   "group": "feelings",
+   "color": "#D6E8F5",
+   "items": [
+    {
+     "book": "abbad-dua",
+     "chapter": 5
+    },
+    {
+     "book": "abbad-dua",
+     "chapter": 7
+    },
+    {
+     "book": "abbad-dua",
+     "chapter": 12
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 10
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 22
+    }
+   ],
+   "image": "assets/categories/feelings/lazy.jpg",
+   "keywords": "lazy laziness"
+  },
+  {
+   "id": "confused",
+   "title": "గందరగోళం",
+   "group": "feelings",
+   "color": "#D6ECE4",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 26
+    },
+    {
+     "book": "rabbana-dua",
+     "chapter": 20
+    },
+    {
+     "book": "rabbana-dua",
+     "chapter": 21
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 18
+    }
+   ],
+   "image": "assets/categories/feelings/confused.jpg",
+   "keywords": "confused confusion"
+  },
+  {
+   "id": "indecisive",
+   "title": "నిర్ణయించుకోలేకపోతే",
+   "group": "feelings",
+   "color": "#E4E4E8",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 26
+    },
+    {
+     "book": "namaz-dua",
+     "chapter": 18
+    },
+    {
+     "book": "rabbana-dua",
+     "chapter": 20
+    }
+   ],
+   "image": "assets/categories/feelings/indecisive.jpg",
+   "keywords": "indecisive decision undecided"
+  },
+  {
+   "id": "lost",
+   "title": "దారి తప్పినట్లు",
+   "group": "feelings",
+   "color": "#E4E4E8",
+   "items": [
+    {
+     "book": "rabbana-dua",
+     "chapter": 6
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 26
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 28
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 29
+    },
+    {
+     "book": "abbad-dua",
+     "chapter": 11
+    },
+    {
+     "book": "abbad-dua",
+     "chapter": 24
+    }
+   ],
+   "image": "assets/categories/feelings/lost.jpg",
+   "keywords": "lost astray guidance"
+  },
+  {
+   "id": "doubtful",
+   "title": "సందేహం",
+   "group": "feelings",
+   "color": "#D6E8F5",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 40
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 42
+    },
+    {
+     "book": "rabbana-dua",
+     "chapter": 6
+    },
+    {
+     "book": "abbad-dua",
+     "chapter": 15
+    }
+   ],
+   "image": "assets/categories/feelings/doubtful.jpg",
+   "keywords": "doubt doubtful sandeham"
+  },
+  {
+   "id": "urge-to-sin",
+   "title": "పాపం చేయాలనిపిస్తే",
+   "group": "feelings",
+   "color": "#D6E8F5",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 45
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 128
+    },
+    {
+     "book": "rabbana-dua",
+     "chapter": 25
+    },
+    {
+     "book": "abbad-dua",
+     "chapter": 15
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 25
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 26
+    }
+   ],
+   "image": "assets/categories/feelings/urge-to-sin.jpg",
+   "keywords": "temptation sin urge"
+  },
+  {
+   "id": "guilty",
+   "title": "అపరాధ భావన",
+   "group": "feelings",
+   "color": "#D6ECE4",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 129
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 44
+    },
+    {
+     "book": "abbad-dua",
+     "chapter": 1
+    },
+    {
+     "book": "abbad-dua",
+     "chapter": 2
+    },
+    {
+     "book": "abbad-dua",
+     "chapter": 3
+    },
+    {
+     "book": "abbad-dua",
+     "chapter": 4
+    },
+    {
+     "book": "rabbana-dua",
+     "chapter": 11
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 15
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 16
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 17
+    }
+   ],
+   "image": "assets/categories/feelings/guilty.jpg",
+   "keywords": "guilty guilt"
+  },
+  {
+   "id": "regret",
+   "title": "పశ్చాత్తాపం",
+   "group": "feelings",
+   "color": "#E4E4E8",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 129
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 46
+    },
+    {
+     "book": "rabbana-dua",
+     "chapter": 11
+    },
+    {
+     "book": "rabbana-dua",
+     "chapter": 23
+    }
+   ],
+   "image": "assets/categories/feelings/regret.jpg",
+   "keywords": "regret remorse repent"
+  },
+  {
+   "id": "hypocritical",
+   "title": "కపటత్వం",
+   "group": "feelings",
+   "color": "#EDE4D3",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 92
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 21
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 25
+    }
+   ],
+   "image": "assets/categories/feelings/hypocritical.jpg",
+   "keywords": "hypocrite hypocrisy"
+  },
+  {
+   "id": "jealous",
+   "title": "అసూయ",
+   "group": "feelings",
+   "color": "#D6ECE4",
+   "items": [
+    {
+     "book": "rabbana-dua",
+     "chapter": 32
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 19
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 125
+    }
+   ],
+   "image": "assets/categories/feelings/jealous.jpg",
+   "keywords": "jealous jealousy envy"
+  },
+  {
+   "id": "greedy",
+   "title": "దురాశ",
+   "group": "feelings",
+   "color": "#EDE4D3",
+   "items": [
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 24
+    },
+    {
+     "book": "abbad-dua",
+     "chapter": 6
+    },
+    {
+     "book": "abbad-dua",
+     "chapter": 25
+    }
+   ],
+   "image": "assets/categories/feelings/greedy.jpg",
+   "keywords": "greedy greed"
+  },
+  {
+   "id": "content",
+   "title": "తృప్తి",
+   "group": "feelings",
+   "color": "#FAE0D8",
+   "items": [
+    {
+     "book": "abbad-dua",
+     "chapter": 25
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 24
+    },
+    {
+     "book": "ibn-baz-dua",
+     "chapter": 27
+    }
+   ],
+   "image": "assets/categories/feelings/content.jpg",
+   "keywords": "content contentment satisfied"
+  },
+  {
+   "id": "grateful",
+   "title": "కృతజ్ఞత",
+   "group": "feelings",
+   "color": "#F2D3D3",
+   "items": [
+    {
+     "book": "rabbana-dua",
+     "chapter": 30
+    },
+    {
+     "book": "rabbana-dua",
+     "chapter": 34
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 87
+    },
+    {
+     "book": "abbad-dua",
+     "chapter": 14
+    }
+   ],
+   "image": "assets/categories/feelings/grateful.jpg",
+   "keywords": "grateful thankful gratitude shukr"
+  },
+  {
+   "id": "happy",
+   "title": "సంతోషం",
+   "group": "feelings",
+   "color": "#FAE0D8",
+   "items": [
+    {
+     "book": "hisnul-muslim",
+     "chapter": 122
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 123
+    },
+    {
+     "book": "hisnul-muslim",
+     "chapter": 106
+    }
+   ],
+   "image": "assets/categories/feelings/happy.jpg",
+   "keywords": "happy happiness joy santosham"
+  }
+ ]
+}
