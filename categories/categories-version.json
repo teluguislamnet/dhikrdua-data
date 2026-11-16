@@ -1,9 +1,9 @@
 {
- "version": 1,
- "size": 33219,
- "sha256": "285fe319cd5146f7729ec6012d7e3d137868f8438e198812e0ba2239d6f28cba",
+ "version": 3,
+ "size": 33264,
+ "sha256": "981db68cb8eee52b64a6b00649b08b1f3e5d910354cbda80f902d11f6c3fbd51",
  "format": 1,
- "generatedAt": "2026-11-15T18:08:51Z",
+ "generatedAt": "2026-11-16T16:03:10Z",
  "images": {
   "ummah.jpg": {
    "size": 31040,

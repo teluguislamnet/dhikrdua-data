@@ -1,12 +1,14 @@
 {
- "version": 1,
+ "version": 3,
  "format": 1,
  "books": {
-  "hisnul-muslim": 7,
+  "hisnul-muslim": 9,
   "rabbana-dua": 1,
   "ibn-baz-dua": 3,
   "abbad-dua": 1,
-  "namaz-dua": 3
+  "namaz-dua": 4,
+  "kalim-tayyib": 1,
+  "morning-evening": 1
  },
  "categories": [
   {
